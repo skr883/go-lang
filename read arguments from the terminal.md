@@ -35,8 +35,7 @@
    
 
    
-
-   2. `import "os"`
+2. `import "os"`
 
       `args := os.Args   //just like main function" int main(int argc, char **argv)" in C`
 
